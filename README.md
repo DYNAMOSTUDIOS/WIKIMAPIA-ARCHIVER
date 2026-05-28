@@ -1,14 +1,9 @@
 <div align="center">
 
-<!-- Logo / Banner -->
-<img src="https://raw.githubusercontent.com/yourusername/wikimapia-archiver/main/assets/banner.png" alt="Wikimapia Archiver Banner" width="100%" style="border-radius: 12px;" />
-
-<br/>
-
 <!-- Logo emblem (SVG fallback inline) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/wikimapia-archiver/main/assets/logo-dark.svg" />
-  <img src="https://raw.githubusercontent.com/yourusername/wikimapia-archiver/main/assets/logo-light.svg" alt="Wikimapia Archiver Logo" height="96" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DYNAMOSTUDIOS/WIKIMAPI-ARCHIVER/blob/main/wikimapia.org-logo.png" />
+  <img src="https://github.com/DYNAMOSTUDIOS/WIKIMAPI-ARCHIVER/blob/main/wikimapia.org-logo.png" alt="Wikimapia Archiver Logo" height="250" />
 </picture>
 
 <h1>Wikimapia Archiver</h1>
@@ -42,24 +37,6 @@
 > **Some of this information may eventually disappear.**
 
 This project aims to **archive and preserve** that data in open, structured, portable formats — so it can outlive the platform it was created on.
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/wikimapia-archiver/main/assets/screenshot-scan.png" alt="Polygon scanning in action" width="49%" />
-  <img src="https://raw.githubusercontent.com/yourusername/wikimapia-archiver/main/assets/screenshot-geojson.png" alt="GeoJSON export preview" width="49%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/wikimapia-archiver/main/assets/screenshot-sqlite.png" alt="SQLite database viewer" width="49%" />
-  <img src="https://raw.githubusercontent.com/yourusername/wikimapia-archiver/main/assets/screenshot-detail.png" alt="Object detail extraction" width="49%" />
-</div>
-
----
 
 ## 🚧 Project Status
 
